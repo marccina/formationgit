@@ -5,6 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 <!-- Comment to git change -->
 <!-- Second comment to git change -->
+<!-- Troisieme comment to git change -->
     <groupId>com.ebiznext</groupId>
     <artifactId>formationgit</artifactId>
     <version>1.0-SNAPSHOT</version>
